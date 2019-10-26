@@ -19,26 +19,26 @@ export default createGlobalStyle`
 
 html, body, #root {
   height:100%;
-}
 
-body {
-  -webkit-font-smoothing: antialiased;
-}
+  body {
+    -webkit-font-smoothing: antialiased;
+    background: linear-gradient(-90deg, #7159c1, #ab59c1);
+  }
 
-body, input, button {
-  font: 14px 'Roboto', sans-serif;
-}
+  body, input, button {
+    font: 14px 'Roboto', sans-serif;
+  }
 
-a {
-  text-decoration: none;
-}
+  a {
+    text-decoration: none;
+  }
 
-ul {
-  list-style: none;
-}
+  ul {
+    list-style: none;
+  }
 
-button {
-  cursor: pointer;
+  button {
+    cursor: pointer;
+  }
 }
-
 `;
