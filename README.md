@@ -1,68 +1,51 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">GoBarber - Web</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-## Available Scripts
+> Barber Management built with React and Redux.
+> This project was built during the Rocketseat bootcamp.
 
-In the project directory, you can run:
+## Technologies
 
-### `yarn start`
+This project was developed using the following technologies:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [x] [ReactJS](https://reactjs.org/)
+- [x] [Create React App](https://github.com/facebook/create-react-app)
+- [x] [Redux](https://redux.js.org/)
+- [x] [Redux-Saga](https://redux-saga.js.org/)
+- [x] [Immer](https://github.com/immerjs/immer)
+- [x] [React Router](https://github.com/ReactTraining/react-router)
+- [x] [Reactotron](https://infinite.red/reactotron)
+- [x] [Axios](https://github.com/axios/axios)
+- [x] [History](https://www.npmjs.com/package/history)
+- [x] [Styled-components](https://www.styled-components.com/)
+- [x] [Polished](https://polished.js.org/)
+- [x] [React-Icons](http://react-icons.github.io/react-icons/)
+- [x] [React-Toastify](https://fkhadra.github.io/react-toastify/)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Install
 
-### `yarn test`
+```sh
+# install all dependencies
+yarn install
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# start the app on a new terminal window
+yarn start
+```
 
-### `yarn build`
+## Author
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+👤 **Nathan Ribeiro**
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* Linkedin: [Nathan Ribeiro](https://www.linkedin.com/in/nathanfribeiro/)
+* Github: [@NathanFRibeiro](https://github.com/NathanFRibeiro)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Show your support
 
-### `yarn eject`
+Give a ⭐️ if you like this project!
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+***
+_Made with ❤️ by [Nathan Ribeiro](https://github.com/NathanFRibeiro)_
